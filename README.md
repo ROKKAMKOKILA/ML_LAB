@@ -22,10 +22,7 @@ Principal Component Analysis (PCA): Reducing the dimensionality of datasets whil
 Train/Test Split and Cross-Validation: Dividing data into training and testing sets, using K-fold cross-validation to generalize models.
 Overfitting and Underfitting: Identifying these issues with learning curves and adjusting models accordingly.
 Hyperparameter Tuning: Using Grid Search or Random Search to find the optimal parameters for machine learning models.
-6. Neural Networks and Deep Learning (Introduction)
-Neural Networks: Understanding the architecture of a basic neural network, with layers, neurons, and activation functions (ReLU, sigmoid). Learning about backpropagation and gradient descent for model training.
-Introduction to Deep Learning: Exploring the basics of deep learning and Convolutional Neural Networks (CNNs) for image classification tasks.
-7. Real-World Project
+6. Real-World Project
 Building an end-to-end machine learning pipeline on a real-world dataset (e.g., from Kaggle), including data preprocessing, model building, evaluation, and tuning.
 Deploying a trained model using Flask or FastAPI (optional).
 Tools and Libraries:
