@@ -1,5 +1,3 @@
-THIS IS MY ML LAB WHICH IS IN THE B TECH 3RD YEAR, 1ST SEMESTER
-
 In this lab, we are focusing on core machine learning concepts and implementing them through hands-on exercises. The topics covered are:
 
 1. Introduction to Machine Learning
